@@ -1,2 +1,2 @@
 # kitkit
-an excommerce application
+an e-commerce application
